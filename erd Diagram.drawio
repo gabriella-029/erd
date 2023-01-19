@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T18:24:14.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="EgWEJ9LwigSMewK06NVp" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-19T06:46:30.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.55" etag="kzlVTFfwsZczdKZ5PWSz" version="20.6.0" type="github">
   <diagram id="2BpuVQ9tPCK1gl49anqS" name="Page-1">
-    <mxGraphModel dx="647" dy="653" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1553" dy="652" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -307,10 +307,10 @@
             <mxPoint x="600" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6LsR8xv4Y1xSTp8uO4PH-88" value="Menarik data" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="6LsR8xv4Y1xSTp8uO4PH-88" value="menarikdata" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="587" y="489.5" width="137" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="6LsR8xv4Y1xSTp8uO4PH-90" value="Mengisi formulir" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="6LsR8xv4Y1xSTp8uO4PH-90" value="mengisiform" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="339.25" y="606" width="133.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6LsR8xv4Y1xSTp8uO4PH-99" value="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="6LsR8xv4Y1xSTp8uO4PH-90" target="6LsR8xv4Y1xSTp8uO4PH-10" edge="1">
